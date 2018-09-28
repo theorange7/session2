@@ -1,12 +1,6 @@
 function removeDashes(cardNum) {
     //Remove dashes from creditCardNum string
-    let ccNumberNoDashes = '';
-    for (let i = 0; i < cardNum.length; i++) {
-        if (cardNum[i] !== '-') {
-            ccNumberNoDashes += cardNum[i];
-        }
-    }asda
-    
+    let ccNumberNoDashes = ''.replace()
     return ccNumberNoDashes;
 }
 
