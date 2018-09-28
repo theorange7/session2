@@ -5,7 +5,7 @@ function removeDashes(cardNum) {
         if (cardNum[i] !== '-') {
             ccNumberNoDashes += cardNum[i];
         }
-    }
+    }asda
     
     return ccNumberNoDashes;
 }
